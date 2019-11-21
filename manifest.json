@@ -2,7 +2,7 @@
     "short_name": "FromTide736",
     "name": "FromTide'36",
     "display": "standalone",
-    "start_url": "tide.html",
+    "start_url": "index.html",
     "icons": [
         {
             "src": "images/icon.jpg",
