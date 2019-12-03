@@ -1,7 +1,7 @@
 // キャッシュファイルの指定
 var CACHE_NAME = 'pwa-fromtide736-caches';
 var urlsToCache = [
-    '/mwat33.github.io/wat/',
+    'https://mwat33.github.io/wat/',
 ];
 
 // インストール処理
