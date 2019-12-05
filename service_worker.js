@@ -1,7 +1,6 @@
 // キャッシュファイルの指定
 var CACHE_NAME = 'pwa-fromtide736-caches';
-var urlsToCache = [
-    
+var urlsToCache = [  
 ];
 
 // インストール処理
