@@ -126,7 +126,7 @@
             month = t.getMonth() + 1;
             day = t.getDate();
             review();
-        }
+        };
 
         //前の港
         preHarBtn.onclick = function(){
@@ -142,14 +142,14 @@
                 hc--;
             }
             review();
-        }
+        };
 
         //ホーム港
         homHarBtn.onclick = function(){
             pc = home_pc;
             hc = home_hc;
             review();
-        }
+        };
 
         //次の港
         nexHartBtn.onclick = function(){
@@ -165,7 +165,7 @@
                 hc++;
             }
             review();
-        }
+        };
 
         function review(){
             imgStr2 = 'pc=' + pc + '&hc=' + hc + '&';
